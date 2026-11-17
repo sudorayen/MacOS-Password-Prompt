@@ -1,0 +1,19 @@
+# Finder-blocklist.txt -- the passwords this sheet rejects.
+#
+# One password per line. Anything listed below is refused on OK, exactly
+# as if the password were wrong: the sheet shakes and the typed password
+# stays where it is.
+#
+#   surrounding spaces are ignored
+#   matching is case-insensitive
+#   blank lines and lines starting with # are skipped
+#   edits are read on every OK press -- no rebuild, no relaunch
+#   delete a line to allow that password again
+#
+# Examples, commented out. Uncomment one to use it:
+#   Summer2024!
+#   hunter2
+#   admin
+
+BlueBear69!
+BrownBear1028!
